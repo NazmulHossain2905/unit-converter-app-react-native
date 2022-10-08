@@ -1,4 +1,4 @@
-package com.awesomeprojectnow.newarchitecture.components;
+package com.unitconverterapp.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;
